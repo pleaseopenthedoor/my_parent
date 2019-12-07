@@ -1,3 +1,0 @@
-[submodule "my_child"]
-	path = my_child
-	url = git@github.com:pleaseopenthedoor/my_child.git
